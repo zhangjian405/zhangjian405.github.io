@@ -1,6 +1,6 @@
 # main links links
 main:
-  - title: "Publications45"
+  - title: "Publications"
     url: /publications45/
 
   - title: "Talks"
@@ -10,13 +10,13 @@ main:
     url: /teaching/    
     
   - title: "Grants&Awards"
-    url: /portfolio/
+    url: /Grants&Awards/
         
   - title: "Blog Posts"
     url: /year-archive/
     
-  - title: "CV"
-    url: /cv/
+  - title: "My work"
+    url: /My work/
     
   - title: "Guide"
     url: /markdown/
