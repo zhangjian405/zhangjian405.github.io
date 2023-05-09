@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Jian Zhang"
   avatar           : "zj.png"
-  bio              : "swpu"
+  bio              : "Southwest Petroleum University,associate professor"
   location         : "cd swpu"
   employer         :
   pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
@@ -221,7 +221,7 @@ defaults:
   # _publications
   - scope:
       path: ""
-      type: publications45
+      type: publications
     values:
       layout: single
       author_profile: true
